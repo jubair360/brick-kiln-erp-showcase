@@ -123,7 +123,26 @@ Sole developer: requirements gathering with the owner and managers, database des
 
 ## Screenshots
 
-_Screenshots with sample data coming soon._
+All screens use **demo data**: the names, amounts and slips are samples, not the kiln's real records. The interface is in Bangla because that is what the managers use.
+
+<img src="screenshots/09-dashboard-desktop.png" alt="Owner dashboard on desktop" width="100%">
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="screenshots/01-dashboard.png" alt="Dashboard"><br><sub><b>Dashboard</b><br>cash in hand, dues, advances, profit</sub></td>
+<td align="center" width="25%"><img src="screenshots/02-cash-book.png" alt="Cash book"><br><sub><b>Cash book</b><br>every taka in and out, who wrote it</sub></td>
+<td align="center" width="25%"><img src="screenshots/03-contractor-ledger.png" alt="Contractor ledger"><br><sub><b>Contractor ledger</b><br>work done, advance, balance</sub></td>
+<td align="center" width="25%"><img src="screenshots/04-customer-dues.png" alt="Customer dues"><br><sub><b>Customer dues</b><br>who still owes, across seasons</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/05-ai-scan-check.png" alt="AI slip scan check"><br><sub><b>AI slip scan</b><br>the app catches a multiplication error and a wrong total before saving</sub></td>
+<td align="center"><img src="screenshots/06-reports.png" alt="Reports"><br><sub><b>Reports</b><br>any date range, printable</sub></td>
+<td align="center"><img src="screenshots/07-settings-owner-only.png" alt="Owner settings"><br><sub><b>Owner-only settings</b><br>rates, brick prices, users, seasons</sub></td>
+<td align="center"><img src="screenshots/08-manager-menu.png" alt="Manager menu"><br><sub><b>Manager view</b><br>same app, no settings or rate changes</sub></td>
+</tr>
+</table>
+
+Full-length versions of every screen are in [`screenshots/full/`](screenshots/full).
 
 ---
 
