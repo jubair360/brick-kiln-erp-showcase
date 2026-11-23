@@ -156,4 +156,4 @@ Full-length versions of every screen are in [`screenshots/full/`](screenshots/fu
 
 ---
 
-**Md Jubair Imtiaj** · CSE (Information Systems), AIUB · [LinkedIn](https://www.linkedin.com/in/jubair-imtiaj-70b910451) · [GitHub](https://github.com/jubair360)
+**Md Jubair Imtiaj** · CSE (Information Systems), AIUB · [LinkedIn](https://www.linkedin.com/in/md-jubair-imtiaj-70b910451) · [GitHub](https://github.com/jubair360)
