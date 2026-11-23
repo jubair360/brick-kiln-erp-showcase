@@ -127,6 +127,16 @@ All screens use **demo data**: the names, amounts and slips are samples, not the
 
 <img src="screenshots/09-dashboard-desktop.png" alt="Owner dashboard on desktop" width="100%">
 
+### Key screens explained in English
+
+<img src="screenshots/05-ai-scan-check-en.png" alt="AI slip scan with English explanations" width="100%">
+
+<img src="screenshots/01-dashboard-en.png" alt="Owner dashboard with English explanations" width="100%">
+
+<img src="screenshots/03-contractor-ledger-en.png" alt="Contractor ledger with English explanations" width="100%">
+
+### More screens
+
 <table>
 <tr>
 <td align="center" width="25%"><img src="screenshots/01-dashboard.png" alt="Dashboard"><br><sub><b>Dashboard</b><br>cash in hand, dues, advances, profit</sub></td>
